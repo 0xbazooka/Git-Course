@@ -19,7 +19,7 @@ git commit -m "<message on the update u did>"
 git status
 
 //remote repo
-git push
+git push <RemoteRepo> <Branchname>
 ```
 
 git branch 
