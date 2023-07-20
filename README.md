@@ -26,6 +26,7 @@ git branch
 
 //to change configurations
 git config -l
+
 ![image](https://user-images.githubusercontent.com/99322823/220272197-b5df2cdb-3360-4be7-9c96-1f9135165cf5.png)
 
 //we want to change our username and email values
